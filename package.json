@@ -1,6 +1,6 @@
 {
   "name": "fast-parse-curl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Parse cURL commands into structured JSON objects",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
