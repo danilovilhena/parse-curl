@@ -1,0 +1,16 @@
+# Exclude source maps
+*.map
+
+# Exclude source files
+src/
+tests/
+test.ts
+scripts/
+
+# Exclude development files
+tsconfig.json
+bun.lock
+
+# Exclude node_modules (shouldn't be needed but just in case)
+node_modules/
+
